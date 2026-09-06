@@ -1,6 +1,7 @@
 {
   "name": "@goodmeta/x402-example",
   "version": "1.0.0",
+  "license": "Apache-2.0",
   "description": "Minimal x402 paid API endpoint + agent client implementation",
   "type": "module",
   "scripts": {
